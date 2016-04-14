@@ -1,0 +1,17 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-request": "^0.3.3",
+    "husl": "^6.0.1",
+    "install": "^0.6.1",
+    "lodash": "^4.10.0"
+  }
+}
